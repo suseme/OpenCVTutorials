@@ -10,15 +10,15 @@ OpenCV-Python Tutorials官方文档：https://docs.opencv.org/4.1.2/d6/d00/tutor
 
 # 目录
 
-### [OpenCV中文官方文档](http://www.woshicver.com/.)
+### [OpenCV中文官方文档](/susemm/OpenCVTutorials/)
 
 *   <span class="caption-text">OpenCV简介</span>
 
-    * [0_OpenCV-Python Tutorials](http://www.woshicver.com/FirstSection/0_OpenCV-Python%20Tutorials/)
+    * [0_OpenCV-Python Tutorials](/FirstSection/0_OpenCV-Python%20Tutorials/)
     
 *   <span class="caption-text">OpenCV安装</span>
 
-    *   [1_1_OpenCV-Python教程简介](http://www.woshicver.com/SecondSection/1_1_OpenCV-Python教程简介/)
+    *   [1_1_OpenCV-Python教程简介](/SecondSection/1_1_OpenCV-Python教程简介/)
     *   [1_2_在Windows中安装OpenCV-Python](http://www.woshicver.com/SecondSection/1_2_在Windows中安装OpenCV-Python/)
     *   [1_3_在Fedora中安装OpenCV-Python](http://www.woshicver.com/SecondSection/1_3_在Fedora中安装OpenCV-Python/)
     *   [1_4_在Ubuntu中安装OpenCV-Python](http://www.woshicver.com/SecondSection/1_4_在Ubuntu中安装OpenCV-Python/)
