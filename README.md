@@ -10,30 +10,30 @@ OpenCV-Python Tutorials官方文档：https://docs.opencv.org/4.1.2/d6/d00/tutor
 
 # 目录
 
-### [OpenCV中文官方文档](/susemm/OpenCVTutorials/)
+### [OpenCV中文官方文档](/)
 
 *   <span class="caption-text">OpenCV简介</span>
 
-    * [0_OpenCV-Python Tutorials](/FirstSection/0_OpenCV-Python%20Tutorials/)
+    * [0_OpenCV-Python Tutorials](/01.Introduction.to.OpenCV/01.0.Introduction.to.OpenCV-Python.Tutorials)
     
 *   <span class="caption-text">OpenCV安装</span>
 
-    *   [1_1_OpenCV-Python教程简介](/SecondSection/1_1_OpenCV-Python教程简介/)
-    *   [1_2_在Windows中安装OpenCV-Python](http://www.woshicver.com/SecondSection/1_2_在Windows中安装OpenCV-Python/)
-    *   [1_3_在Fedora中安装OpenCV-Python](http://www.woshicver.com/SecondSection/1_3_在Fedora中安装OpenCV-Python/)
-    *   [1_4_在Ubuntu中安装OpenCV-Python](http://www.woshicver.com/SecondSection/1_4_在Ubuntu中安装OpenCV-Python/)
+    *   [1_1_OpenCV-Python教程简介](/01.Introduction.to.OpenCV/01.1.OpenCV-Python.Tutorials)
+    *   [1_2_在Windows中安装OpenCV-Python](/01.Introduction.to.OpenCV/01.2.Install.OpenCV-Python.in.Windows)
+    *   [1_3_在Fedora中安装OpenCV-Python](/01.Introduction.to.OpenCV/01.3.Install.OpenCV-Python.in.Fedora)
+    *   [1_4_在Ubuntu中安装OpenCV-Python](/01.Introduction.to.OpenCV/01.4.Install.OpenCV-Python.in.Ubuntu)
     
 *   <span class="caption-text">OpenCV中的GUI特性</span>
 
-    *   [2_1_图像入门](http://www.woshicver.com/ThirdSection/2_1_图像入门/)
-    *   [2_2_视频入门](http://www.woshicver.com/ThirdSection/2_2_视频入门/)
-    *   [2_3_OpenCV中的绘图功能](http://www.woshicver.com/ThirdSection/2_3_OpenCV中的绘图功能/)
-    *   [2_4_鼠标作为画笔](http://www.woshicver.com/ThirdSection/2_4_鼠标作为画笔/)
-    *   [2_5_轨迹栏作为调色板](http://www.woshicver.com/ThirdSection/2_5_轨迹栏作为调色板/)
+    *   [2_1_图像入门](/02-Gui.Features.in.OpenCV/)
+    *   [2_2_视频入门](/02-Gui.Features.in.OpenCV/)
+    *   [2_3_OpenCV中的绘图功能](/02-Gui.Features.in.OpenCV/)
+    *   [2_4_鼠标作为画笔](/02-Gui.Features.in.OpenCV/)
+    *   [2_5_轨迹栏作为调色板](/02-Gui.Features.in.OpenCV/)
     
 *   <span class="caption-text">核心操作</span>
 
-    *   [3_1_图像的基本操作](http://www.woshicver.com/FourthSection/3_1_图像的基本操作/)
+    *   [3_1_图像的基本操作](/03.Core.Operations/3.1.Basic.Operations.on.Images.md)
     *   [3_2_图像上的算法运算](http://www.woshicver.com/FourthSection/3_2_图像上的算法运算/)
     *   [3_3_性能衡量和提升技术](http://www.woshicver.com/FourthSection/3_3_性能衡量和提升技术/)
     
