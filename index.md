@@ -1,3 +1,5 @@
+{% include header.html %}
+
 # 写在前面的话
 
 **OpenCV**是计算机视觉中经典的专用库，其支持多语言、跨平台，功能强大。**OpenCV-Python**为OpenCV提供了Python接口，使得使用者在Python中能够调用C/C++，在保证易读性和运行效率的前提下，实现所需的功能。
@@ -102,3 +104,5 @@ OpenCV-Python Tutorials官方文档：https://docs.opencv.org/4.1.2/d6/d00/tutor
   * [11_1_OpenCV-Python Bindings](/11.OpenCV-Python.Bindings/11.1.OpenCV-Python.Bindings)
 
 # 关于
+
+{% include fooder.html %}
